@@ -9,6 +9,9 @@
     <Description>Simple framework to handle basic CQRS</Description>
     <Product>SimpleCommandQueryFramework</Product>
     <PackageTags>cqrs</PackageTags>
+    <PackageProjectUrl>https://github.com/Ordjony/SimpleCommandQueryFramework</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Ordjony/SimpleCommandQueryFramework</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/Ordjony/SimpleCommandQueryFramework/blob/master/README.md</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
