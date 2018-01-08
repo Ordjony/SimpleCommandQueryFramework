@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <PackageId>SimpleCommandQueryFramework</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Authors>Andrew Sivak</Authors>
     <Company>Andrew Sivak</Company>
     <Description>Simple framework to handle basic CQRS</Description>
